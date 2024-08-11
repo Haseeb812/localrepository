@@ -1,4 +1,3 @@
 # localrepository 
-<br>
-Just a practice. author haseeb safdar
+Just a practice.<br>author haseeb safdar
 
